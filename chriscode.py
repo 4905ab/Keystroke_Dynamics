@@ -3,7 +3,7 @@ from datetime import datetime
 
 def OnKeyboardEvent(event):
     start = time.time()
-    print 'Ascii', event.Ascii, chr(event.Ascii)
+    print 'Ascii:', event.Ascii, chr(event.Ascii)
     end = (time.time() - start)
     print end
 
