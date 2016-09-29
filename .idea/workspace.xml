@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="270710e5-da7c-44fe-8959-0e9ceeef2720" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/keyboard captuer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Keystroke_Dynamics_Accidentally_Kangaroo.iml" afterPath="$PROJECT_DIR$/.idea/Keystroke_Dynamics_Accidentally_Kangaroo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chriscode.py" afterPath="$PROJECT_DIR$/chriscode.py" />
-    </list>
+    <list default="true" id="270710e5-da7c-44fe-8959-0e9ceeef2720" name="Default" comment="" />
     <ignored path="Keystroke_Dynamics_Accidentally_Kangaroo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +20,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="keyboard captuer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chriscode.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chriscode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyboard captuer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/keyboard captuer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -56,14 +62,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/chriscode.py" />
         <option value="$PROJECT_DIR$/keyboard captuer.py" />
+        <option value="$PROJECT_DIR$/chriscode.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="218" />
-    <option name="y" value="157" />
+    <option name="x" value="174" />
+    <option name="y" value="333" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -289,10 +295,18 @@
       <option name="presentableId" value="Default" />
       <updated>1475149536476</updated>
     </task>
+    <task id="LOCAL-00001" summary="debugged">
+      <created>1475164598607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1475164598607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="218" y="157" width="1400" height="1000" extended-state="0" />
+    <frame x="174" y="333" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -324,6 +338,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugged" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -416,16 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chriscode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -450,6 +458,16 @@
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chriscode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
