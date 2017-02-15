@@ -1,17 +1,12 @@
-import pyHook
-from datetime import time
-import pythoncom
+import pythoncom, pyHook, time
 
-
-def OnKeyboardEvent(event):
+def onkeyboardevent(event):
     start = time.time()
-    print('Ascii:', event.Ascii, chr(event.Ascii))
+    print 'Ascii:', event.Ascii, chr(event.Ascii)
     end = (time.time() - start)
-    print(end)
+    print end
 
     return True
 
-hooks_manager = pyHook.HookManager()
-hooks_manager.Keydown = OnKeyboardEvent
-hooks_manager.HookManager()
-pythoncom.PumpMessages()
+#hooks_manager = pyHook.HookManager()
+#hooks_manager.Keydown = onkeyboardevent()
