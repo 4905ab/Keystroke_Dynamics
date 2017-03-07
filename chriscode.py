@@ -1,4 +1,4 @@
-import pythoncom, pyHook, time
+"""import pythoncom, pyHook, time
 
 def onkeyboardevent(event):
     start = time.time()
@@ -10,3 +10,4 @@ def onkeyboardevent(event):
 
 #hooks_manager = pyHook.HookManager()
 #hooks_manager.Keydown = onkeyboardevent()
+"""

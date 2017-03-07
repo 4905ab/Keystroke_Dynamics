@@ -25,8 +25,7 @@ def deltatime():
     # 00:39:11.039864
     # added the barrkets to the code in this block only see if it does somthing - news it breaks it as not funcations but events
 
-
-class Keystroke_Watcher(object):
+class Keystroke_Metric(object):
     #decering keyboard hook and up down key varibles
     hm = HookManager()
     hm.HookKeyboad
@@ -99,7 +98,3 @@ class Keystroke_Watcher(object):
         if x_keyup_tim < y_keyup_tim and x_keyup_asci == y_keyup_asci:
             uukl_metric= (x_keyup_tim - y_keyup_tim)
             print uukl_metric
-
-
-
-

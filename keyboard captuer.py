@@ -1,4 +1,4 @@
-from pyHook import HookManager
+"""from pyHook import HookManager
 from win32gui import PumpMessages, PostQuitMessage
 
 class Keystroke_Watcher(object):
@@ -21,6 +21,7 @@ class Keystroke_Watcher(object):
     def shutdown(self):
         PostQuitMessage(0)
         self.hm.UnhookKeyboard()
+"""
 
 
 watcher = Keystroke_Watcher()
