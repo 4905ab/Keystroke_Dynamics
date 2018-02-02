@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="270710e5-da7c-44fe-8959-0e9ceeef2720" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Keystroke_Dynamics_Accidentally_Kangaroo.iml" afterPath="$PROJECT_DIR$/.idea/Keystroke_Dynamics_Accidentally_Kangaroo.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chriscode.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/keyboard captuer.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/metric_cap.py" afterPath="" />
     </list>
     <ignored path="Keystroke_Dynamics_Accidentally_Kangaroo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,22 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="new keycap.new.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Windows/new keycap.new.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="new keycap.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Windows/new keycap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-313">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -510,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517571940447</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="made new file called new windows\newkeycap and mostly finished the code par it working">
+      <created>1517572072885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517572072885</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -580,7 +570,8 @@
     <MESSAGE value="debugged" />
     <MESSAGE value="debugged and re wittren" />
     <MESSAGE value="try ing to add a callable class to run the keystroke metric recognition  and get the keystroke metrics to the work" />
-    <option name="LAST_COMMIT_MESSAGE" value="try ing to add a callable class to run the keystroke metric recognition  and get the keystroke metrics to the work" />
+    <MESSAGE value="made new file called new windows\newkeycap and mostly finished the code par it working" />
+    <option name="LAST_COMMIT_MESSAGE" value="made new file called new windows\newkeycap and mostly finished the code par it working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Windows/new keycap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-313">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
