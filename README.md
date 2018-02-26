@@ -1,5 +1,5 @@
 # Keystroke Dynamics
-### project name Accidentally Kangaroo
+### project name - Accidentally Kangaroo
 ****
 
 ## goal
